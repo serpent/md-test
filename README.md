@@ -46,3 +46,7 @@ This is sentence one.
 ----
 
 This is sentence two.
+
+## Media Wiki links
+
+Link to [[README]].
